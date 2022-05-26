@@ -1,0 +1,19 @@
+body {
+    background: url('night_drive.gif') repeat-y 55% 65% fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+audio {
+    position: fixed;
+    bottom: 10px;
+}
+p {
+    text-align: right;
+    color: #580e8b;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+    font: 25pt sans-serif;
+}
